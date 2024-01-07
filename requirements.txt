@@ -1,5 +1,5 @@
 asgiref==3.7.2
-Django==4.0
+Django==5.0.1
 markdown2==2.4.12
 packaging==23.2
 sqlparse==0.4.4
