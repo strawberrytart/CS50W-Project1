@@ -1,6 +1,6 @@
 asgiref==3.7.2
 dj-database-url==2.1.0
-Django==5.0.1
+Django==4.0
 gunicorn==21.2.0
 markdown2==2.4.12
 packaging==23.2
